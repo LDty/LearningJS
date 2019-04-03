@@ -1,8 +1,6 @@
-# My Awesome Book
+# 项目地址:
 
-gitbook build ./ ./docs
+[https://ldty.github.io/LearningJS/](https://ldty.github.io/LearningJS/)
 
-gitbook build ./ ./docs
 
-gitbook build ./ ./docs
 
