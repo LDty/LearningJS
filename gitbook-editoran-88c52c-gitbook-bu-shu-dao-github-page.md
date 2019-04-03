@@ -13,9 +13,13 @@
 ### 将项目搭建服务器，生成html文件 {#将项目搭建服务器，生成html文件}
 
 1.在安装了nodejs的前提下安装gitbook,命令语句：npm install -g gitbook-cli  
+
 2.输入命令：gitbook -V 查看gitbook是否安装成功  
+
 3.cd到对应项目  
+
 4.命令语句：gitbook build ./ ./docs 生成到根目录下的 docs 文件夹
+
 
 
 
