@@ -17,3 +17,5 @@
 3.cd到对应项目  
 4.命令语句：gitbook build ./ ./docs 生成到根目录下的 docs 文件夹
 
+
+
