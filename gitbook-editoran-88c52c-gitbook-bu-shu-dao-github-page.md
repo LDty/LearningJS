@@ -26,6 +26,8 @@
 
 4.命令语句：npm run build 生成到根目录下的 docs 文件夹,这样 html 内容被编译好之后就会被保存到 docs 文件夹中
 
+5.点击gitbook editor的save 后,上传到github仓库
+
 ### 部署到github pages
 
 github setting-&gt; Github Pages-&gt; Source 一项设置为 master branch docs folder 意思就是 master 分支的 docs 文件夹,等待几分钟，即可访问[https://ldty.github.io/LearningJS/](https://ldty.github.io/LearningJS/) 了
